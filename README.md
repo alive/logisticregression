@@ -1,7 +1,9 @@
 ## Logistic Regression
 Implementation of a binary logestic regression algorithm in Rust.  
 Utilizes the Nalgebra create for linear algrebra.
+Uses [UCI's Banknote Authentication Dataset an an example](https://archive.ics.uci.edu/ml/datasets/banknote+authentication).
 
+### Loss over time for the Banknote Authentication Dataset:
 ![Loss over time](./resources/lossovertime.png)
 
 ### Questions I had:
